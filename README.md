@@ -1,1 +1,1 @@
-# end-sem-2nd-project
+# Programming HackerRank
